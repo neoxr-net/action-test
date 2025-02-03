@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        Git Action Test success on Neoxr
+        Git Action Test success on Neoxr from fork
         </a>
       </header>
     </div>
